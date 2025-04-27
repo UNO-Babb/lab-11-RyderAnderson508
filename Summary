@@ -1,0 +1,5 @@
+I changed the number of items a shopper can check out from 1-100 items becuase someone could wlak in there and one thing 
+while another could get an entire shopping cart full of stuff. and i check the number of checker to 6 people as i felt it 
+optomized idle time to check out time for the number of items. 
+    And it added an addition of the average items per shopping by using the same concept as the wait time by useing the e in the 
+event line. 
