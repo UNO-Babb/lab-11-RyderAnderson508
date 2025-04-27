@@ -24,8 +24,7 @@ def print_average():
         total_items = sum(e[1] for e in eventLog)
         avg_items = total_items / len(eventLog)
         print("The average items per shopper is", round(avg_items,), ".")
-    else:
-        print("No shoppers.")
+
 
 
 def checker(env):
